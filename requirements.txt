@@ -1,0 +1,8 @@
+gradio
+python-dotenv
+pydub
+requests
+pyaudio
+SpeechRecognition
+soundfile
+pygame
