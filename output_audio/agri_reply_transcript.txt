@@ -1,3 +1,9 @@
-I could not contact the AI model right now. Please check your GROQ_API_KEY or internet connection.
+I need more information, but try these steps:
+1) Take a clear close-up photo of the affected area.
+2) Remove heavily damaged tissue to prevent spread.
+3) Show samples to a local agronomist if symptoms worsen.
 
-This tool gives general crop guidance based on your description and photo. Always confirm pesticide products, rates, and local regulations with a licensed agronomist before spraying anything.
+Based on: 'there's black fungal growth on my rice leaves. is it serious?'
+
+📋 DISCLAIMER:
+This tool provides general crop guidance based on your description. While these recommendations are low-risk, monitor your field closely and consult an agronomist if the problem persists or worsens.
